@@ -8,15 +8,15 @@
 
 ### Связаться со мной:
 <p align="left">
-<a href="https://t.me/IvanGrubov" target="blank"><img align="center" src="https://raw.githubusercontent.com/IvG52/IvG52/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="Ivan Grubov" height="40" width="40" /></a>
+<a href="https://t.me/IvanGrubov" target="blank"><img align="center" src="https://raw.githubusercontent.com/IgV52/IgV52/main/icons/Telegram.svg" alt="Ivan Grubov" height="40" width="40" /></a>
 </p>
 
 ### Языки:
 <p align="left"> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/IvG52/IvG52/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/python.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/IgV52/IgV52/main/icons/python.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
 ### Инструменты:
 <p align="left">  
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/IvG52/IvG52/2583381c09497c680369e95dce7e029d93484d94/icons/VS-code.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/IgV52/IgV52/main/icons/VS-code.svg" alt="git" width="40" height="40"/> </a> 
 </p>

@@ -1,4 +1,4 @@
-<h1 align="center">Привет, Я Иван 
+<h1 align="center">Привет
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 [![codewars](https://www.codewars.com/users/Ivan52/badges/large)](https://www.codewars.com/users/Ivan52)

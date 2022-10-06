@@ -3,7 +3,7 @@
 
 [![codewars](https://www.codewars.com/users/Ivan52/badges/large)](https://www.codewars.com/users/Ivan52)
 
-- В настоящее время я изучаю **python, docker, flask, базы данных**
+- В настоящее время я изучаю **python, docker, FastApi, базы данных**
 
 - Моя почта **gruivanvik@mail.ru**
 
